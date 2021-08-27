@@ -1,0 +1,37 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+.fondositio {
+    background-color: white;
+}
+
+.colortextomenu {
+    color: black !important;
+} 
+
+.logo {
+    width: 80px;
+    height: 80px;
+}
+
+.sizeinicio {
+    font-size: 1.05rem !important;
+    flex-grow: 0 !important;
+}
+
+.ubicacionmenu {
+    display: flex;
+    flex-grow: 0 !important;
+}
+
+.ubitarjeta {
+    padding: 50px;
+    padding-top: 90px;
+}
+
+.colorboton {
+    color: white !important;
+    text-decoration: none !important;
+}
